@@ -1,0 +1,172 @@
+body{
+    background-image: url(../img/bg.png);
+    margin: 0%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#foto1{
+    width: 100%;
+    align-items: center;
+}
+#titulo{
+    color: #fdab1b;
+    font-family: Verdana;
+    text-align: left;
+    padding-left: 5mm;
+    padding-top: 5mm;
+}
+#texto1{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#legenda{
+    color: #c3820f;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
+#conteudo{
+    background-color: white;
+    width: 800px;
+}
+#titulo2{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto2{
+    text-align: justify;
+    font-family: Verdana;
+    margin: 3%;
+    font-size: small;
+}
+#titulo3{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#titulo4{
+    color: #c3820f;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto3{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#titulo5{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto4{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#legenda2{
+    color: #c3820f;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
+#titulo6{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto5{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#quadrinho{
+    object-position: center;
+}
+#legenda3{
+    color: #c3820f;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
+#texto6{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#titulo7{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto7{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#titulo8{
+    color: #fdab1b;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#titulo9{
+    color: #c3820f;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto8{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#legenda4{
+    color: #c3820f;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}
+#titulo10{
+    color: #c3820f;
+    margin: 3%;
+    font-family: Verdana;
+    text-align: left;
+}
+#texto9{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+#endereço{
+    text-align: justify;
+    margin: 3%;
+    font-family: Verdana;
+    font-size: small;
+}
+a{ 
+    text-align: left;
+}
+a:link{
+    color:#fdab1b
+}
+a:hover{
+    color: #c3820f;
+    text-decoration: underline;
+}
